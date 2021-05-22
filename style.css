@@ -52,13 +52,13 @@ header{
     justify-content: space-between;
     width: 30px;
     height: 21px;
-    }
+}
     .toggle-button .bar{
     height: 3px;
     width: 100%;
     background-color: var(--White);
     border-radius: 10px;
-    }
+ }
 .logo{
     padding-right: 3rem;
 }
@@ -317,7 +317,7 @@ color: var(--Very-dark-grayish-blue);
         box-sizing: 0;
     }
     .toggle-button{
-        display: flex;
+     display: flex;
     } 
     .logo{
         margin: 0;
